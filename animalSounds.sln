@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalSounds", "animalSounds\animalSounds.csproj", "{F489BF24-132B-4894-9A6F-D96904A5E332}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{423F2816-289D-40F1-95D8-7242E877CBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moves", "Moves\Moves.csproj", "{48779485-4DCB-4440-A8D8-8B6EA89B5050}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{F489BF24-132B-4894-9A6F-D96904A5E332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F489BF24-132B-4894-9A6F-D96904A5E332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F489BF24-132B-4894-9A6F-D96904A5E332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423F2816-289D-40F1-95D8-7242E877CBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423F2816-289D-40F1-95D8-7242E877CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423F2816-289D-40F1-95D8-7242E877CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423F2816-289D-40F1-95D8-7242E877CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48779485-4DCB-4440-A8D8-8B6EA89B5050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48779485-4DCB-4440-A8D8-8B6EA89B5050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48779485-4DCB-4440-A8D8-8B6EA89B5050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48779485-4DCB-4440-A8D8-8B6EA89B5050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
